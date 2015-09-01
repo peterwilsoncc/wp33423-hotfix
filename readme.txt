@@ -23,4 +23,8 @@ Install this from the WordPress dashboard.
 
 == Changelog ==
 
-1.0 Initial version.
+= 1.1 =
+Repackage as WordPress.org was having trouble picking up the version number
+
+= 1.0 =
+Initial version.
