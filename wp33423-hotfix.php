@@ -2,9 +2,11 @@
 /*
 Plugin Name: wp33423 hotfix
 Description: This is a hotfix for the ticket #33423.
-Author: peterwilsoncc
-Author URI: http://peterwilson.cc/
-License: GPLv2 or later
+Version:     1.1
+Author:      peterwilsoncc
+Author URI:  http://peterwilson.cc/
+License:     GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 
